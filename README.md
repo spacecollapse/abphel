@@ -1,1 +1,24 @@
-# abphel
+# Фикс
+
+Если обход включен, но всё равно вылазиит эта ебалда
+
+![image](https://github.com/user-attachments/assets/e815c7ef-60e0-41f0-8dd4-fb36aae8a5e3)
+
+
+Открываем Обход, заходим в пуск пишем Панель Управления, заходим
+
+![image](https://github.com/user-attachments/assets/20072ef1-293d-4dd3-839b-10eef88b7800)
+
+Пишем в поиск "сете" и нажимаем "Просмотр сетевых подключений", заходим
+
+![image](https://github.com/user-attachments/assets/5fe5861b-6b6f-4e09-9bcd-dbb7fb904e9a)
+
+Ищем адаптер который даёт вам интернет и отключаем его
+
+![image](https://github.com/user-attachments/assets/f5f8b96b-1eda-41fe-bd5e-74afa67c4287)
+
+Заходим в обход и открываем раст
+
+![image](https://github.com/user-attachments/assets/cff28659-0c51-4b97-91cb-819c60329c73)
+
+**Всё теперь включаем адаптер который отключили, инжектим чит и спокойно играем**
