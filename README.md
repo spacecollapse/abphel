@@ -1,5 +1,7 @@
 # Фикс
 
+Если не инжектитя через обход, инжектите через ExtremeInjector
+
 Если обход включен, но всё равно вылазиит эта ебалда
 
 ![image](https://github.com/user-attachments/assets/e815c7ef-60e0-41f0-8dd4-fb36aae8a5e3)
